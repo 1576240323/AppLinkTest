@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.toshiba_lifestyle.apps.iolife",
+    "sha256_cert_fingerprints":
+    ["B6:B1:81:84:C6:1D:3A:6C:F4:72:80:17:59:37:18:02:1E:0D:F3:74:D0:9A:F2:06:86:58:3E:AE:70:24:8B:9B"]
+  }
+}]
